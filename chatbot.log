@@ -1,0 +1,165 @@
+2025-07-23 14:39:51,695 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 14:39:51,695 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:39:51,696 - INFO -  * Restarting with stat
+2025-07-23 14:39:54,806 - WARNING -  * Debugger is active!
+2025-07-23 14:39:54,811 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:41:34,722 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 14:41:34,722 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:41:34,724 - INFO -  * Restarting with stat
+2025-07-23 14:41:37,823 - WARNING -  * Debugger is active!
+2025-07-23 14:41:37,827 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:45:10,363 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:45:10,559 - INFO -  * Restarting with stat
+2025-07-23 14:45:13,742 - WARNING -  * Debugger is active!
+2025-07-23 14:45:13,746 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:46:00,126 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:46:00,289 - INFO -  * Restarting with stat
+2025-07-23 14:46:03,457 - WARNING -  * Debugger is active!
+2025-07-23 14:46:03,462 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:46:04,723 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:46:04,894 - INFO -  * Restarting with stat
+2025-07-23 14:46:08,120 - WARNING -  * Debugger is active!
+2025-07-23 14:46:08,124 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:47:20,053 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:47:20,227 - INFO -  * Restarting with stat
+2025-07-23 14:47:23,478 - WARNING -  * Debugger is active!
+2025-07-23 14:47:23,482 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:47:55,646 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:47:55,809 - INFO -  * Restarting with stat
+2025-07-23 14:47:59,003 - WARNING -  * Debugger is active!
+2025-07-23 14:47:59,009 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:48:00,311 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:48:00,558 - INFO -  * Restarting with stat
+2025-07-23 14:48:03,945 - WARNING -  * Debugger is active!
+2025-07-23 14:48:03,949 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:48:09,529 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:48:09,721 - INFO -  * Restarting with stat
+2025-07-23 14:48:12,934 - WARNING -  * Debugger is active!
+2025-07-23 14:48:12,937 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:49:46,764 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:49:46,933 - INFO -  * Restarting with stat
+2025-07-23 14:49:50,078 - WARNING -  * Debugger is active!
+2025-07-23 14:49:50,082 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:49:55,697 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:49:55,868 - INFO -  * Restarting with stat
+2025-07-23 14:50:03,257 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 14:50:03,257 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:50:03,259 - INFO -  * Restarting with stat
+2025-07-23 14:50:06,244 - WARNING -  * Debugger is active!
+2025-07-23 14:50:06,249 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:51:49,029 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:51:49,176 - INFO -  * Restarting with stat
+2025-07-23 14:51:52,316 - WARNING -  * Debugger is active!
+2025-07-23 14:51:52,320 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:02:47,177 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:02:47,325 - INFO -  * Restarting with stat
+2025-07-23 15:02:50,556 - WARNING -  * Debugger is active!
+2025-07-23 15:02:50,559 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:03:01,683 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:03:01,882 - INFO -  * Restarting with stat
+2025-07-23 15:03:05,549 - WARNING -  * Debugger is active!
+2025-07-23 15:03:05,553 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:04:10,124 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:04:10,300 - INFO -  * Restarting with stat
+2025-07-23 15:04:54,401 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 15:04:54,401 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 15:04:54,403 - INFO -  * Restarting with stat
+2025-07-23 15:04:57,310 - WARNING -  * Debugger is active!
+2025-07-23 15:04:57,313 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:05:33,493 - ERROR - Error in /send-message: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+Traceback (most recent call last):
+  File "c:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 658, in send_message
+    server.login(SMTP_USERNAME, SMTP_PASSWORD)
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+2025-07-23 15:05:33,495 - INFO - 127.0.0.1 - - [23/Jul/2025 15:05:33] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 15:06:01,467 - ERROR - Error in /send-message: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+Traceback (most recent call last):
+  File "c:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 658, in send_message
+    server.login(SMTP_USERNAME, SMTP_PASSWORD)
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+2025-07-23 15:06:01,468 - INFO - 127.0.0.1 - - [23/Jul/2025 15:06:01] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 15:08:11,596 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:08:11,750 - INFO -  * Restarting with stat
+2025-07-23 15:08:14,687 - WARNING -  * Debugger is active!
+2025-07-23 15:08:14,691 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:08:17,030 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:08:17,160 - INFO -  * Restarting with stat
+2025-07-23 15:08:20,147 - WARNING -  * Debugger is active!
+2025-07-23 15:08:20,150 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:08:20,221 - WARNING -  * Debugger is active!
+2025-07-23 15:08:20,222 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:08:20,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 15:08:20,391 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 15:08:20,391 - INFO -  * Restarting with stat
+2025-07-23 15:08:23,294 - WARNING -  * Debugger is active!
+2025-07-23 15:08:23,298 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:08:37,166 - ERROR - Error in /send-message: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+Traceback (most recent call last):
+  File "c:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 639, in send_message
+    server.login(SMTP_USERNAME, SMTP_PASSWORD)
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+2025-07-23 15:08:37,167 - INFO - 127.0.0.1 - - [23/Jul/2025 15:08:37] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 15:09:56,398 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:09:56,525 - INFO -  * Restarting with stat
+2025-07-23 15:09:59,485 - WARNING -  * Debugger is active!
+2025-07-23 15:09:59,489 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:10:12,682 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:10:12,830 - INFO -  * Restarting with stat
+2025-07-23 15:10:15,955 - WARNING -  * Debugger is active!
+2025-07-23 15:10:15,959 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:10:19,844 - WARNING -  * Debugger is active!
+2025-07-23 15:10:19,844 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:10:25,643 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 15:10:25,643 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 15:10:25,644 - INFO -  * Restarting with stat
+2025-07-23 15:10:28,527 - WARNING -  * Debugger is active!
+2025-07-23 15:10:28,530 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:10:41,090 - ERROR - Error in /send-message: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+Traceback (most recent call last):
+  File "c:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 638, in send_message
+    server.login("info@stellsync.com", "yfff-ugin-mjyv-ntdv")  # App Password
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Error: authentication failed: (reason unavailable)')
+2025-07-23 15:10:41,128 - INFO - 127.0.0.1 - - [23/Jul/2025 15:10:41] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 15:11:55,502 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:11:55,654 - INFO -  * Restarting with stat
+2025-07-23 15:11:58,542 - WARNING -  * Debugger is active!
+2025-07-23 15:11:58,546 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:12:34,659 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:12:34,932 - INFO -  * Restarting with stat
+2025-07-23 15:12:37,926 - WARNING -  * Debugger is active!
+2025-07-23 15:12:37,930 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:13:01,110 - INFO -  * Detected change in 'c:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:13:01,281 - INFO -  * Restarting with stat
+2025-07-23 15:13:43,736 - INFO -  * Restarting with stat
+2025-07-23 15:13:51,459 - INFO -  * Restarting with stat
+2025-07-23 15:13:58,230 - INFO -  * Restarting with stat

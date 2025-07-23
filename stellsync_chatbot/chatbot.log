@@ -961,3 +961,164 @@ These results demonstrate our commitment to building solutions that drive real b
 2025-07-16 13:40:06,043 - INFO - 127.0.0.1 - - [16/Jul/2025 13:40:06] "OPTIONS /chat HTTP/1.1" 200 -
 2025-07-16 13:40:06,047 - INFO - Fuzzy best match: 'projects and services|services and projects|what are you doing|what services you are giving|what services you provide|what projects you are doing|current projects|what project are you doing|tell me about your projects and services' (100.0%)
 2025-07-16 13:40:06,047 - INFO - 127.0.0.1 - - [16/Jul/2025 13:40:06] "POST /chat HTTP/1.1" 200 -
+2025-07-23 14:09:31,108 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.144:5000
+2025-07-23 14:09:31,110 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:09:31,112 - INFO -  * Restarting with stat
+2025-07-23 14:09:34,162 - WARNING -  * Debugger is active!
+2025-07-23 14:09:34,176 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:09:34,705 - INFO - 127.0.0.1 - - [23/Jul/2025 14:09:34] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-23 14:09:34,711 - INFO - Fuzzy best match: 'hi|hello|hey|greetings' (100.0%)
+2025-07-23 14:09:34,711 - INFO - 127.0.0.1 - - [23/Jul/2025 14:09:34] "POST /chat HTTP/1.1" 200 -
+2025-07-23 14:22:29,141 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:22:29,398 - INFO -  * Restarting with stat
+2025-07-23 14:22:35,168 - WARNING -  * Debugger is active!
+2025-07-23 14:22:35,175 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:23:06,371 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:23:06,564 - INFO -  * Restarting with stat
+2025-07-23 14:23:09,876 - WARNING -  * Debugger is active!
+2025-07-23 14:23:09,879 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:23:28,702 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:23:28,884 - INFO -  * Restarting with stat
+2025-07-23 14:24:39,960 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.144:5000
+2025-07-23 14:24:39,961 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:24:39,962 - INFO -  * Restarting with stat
+2025-07-23 14:24:42,930 - WARNING -  * Debugger is active!
+2025-07-23 14:24:42,934 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:33:05,105 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.144:5000
+2025-07-23 14:33:05,105 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:33:05,107 - INFO -  * Restarting with stat
+2025-07-23 14:33:08,094 - WARNING -  * Debugger is active!
+2025-07-23 14:33:08,105 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:33:35,510 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:33:35,660 - INFO -  * Restarting with stat
+2025-07-23 14:33:38,719 - WARNING -  * Debugger is active!
+2025-07-23 14:33:38,723 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:33:50,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 14:33:50,430 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 14:33:50,432 - INFO -  * Restarting with stat
+2025-07-23 14:33:53,380 - WARNING -  * Debugger is active!
+2025-07-23 14:33:53,383 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:35:54,234 - ERROR - Error in /send-message: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b3f2ffa9850sm8511570a12.65 - gsmtp')
+Traceback (most recent call last):
+  File "C:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 637, in send_message
+    server.login(SMTP_USERNAME, SMTP_PASSWORD)
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b3f2ffa9850sm8511570a12.65 - gsmtp')
+2025-07-23 14:35:54,237 - INFO - 127.0.0.1 - - [23/Jul/2025 14:35:54] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 14:38:31,731 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:38:31,889 - INFO -  * Restarting with stat
+2025-07-23 14:38:35,106 - WARNING -  * Debugger is active!
+2025-07-23 14:38:35,110 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:41:50,685 - ERROR - Error in /send-message: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31e519ce868sm1184083a91.8 - gsmtp')
+Traceback (most recent call last):
+  File "C:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 635, in send_message
+    server.login(SMTP_USERNAME, SMTP_PASSWORD)
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31e519ce868sm1184083a91.8 - gsmtp')
+2025-07-23 14:41:50,686 - INFO - 127.0.0.1 - - [23/Jul/2025 14:41:50] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 14:45:10,432 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:45:10,600 - INFO -  * Restarting with stat
+2025-07-23 14:45:13,717 - WARNING -  * Debugger is active!
+2025-07-23 14:45:13,720 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:46:00,148 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:46:00,317 - INFO -  * Restarting with stat
+2025-07-23 14:46:03,456 - WARNING -  * Debugger is active!
+2025-07-23 14:46:03,460 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:46:04,735 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:46:04,905 - INFO -  * Restarting with stat
+2025-07-23 14:46:08,110 - WARNING -  * Debugger is active!
+2025-07-23 14:46:08,114 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:47:20,026 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:47:20,227 - INFO -  * Restarting with stat
+2025-07-23 14:47:23,458 - WARNING -  * Debugger is active!
+2025-07-23 14:47:23,462 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:47:55,529 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:47:55,679 - INFO -  * Restarting with stat
+2025-07-23 14:47:58,925 - WARNING -  * Debugger is active!
+2025-07-23 14:47:58,929 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:48:00,217 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:48:00,399 - INFO -  * Restarting with stat
+2025-07-23 14:48:03,840 - WARNING -  * Debugger is active!
+2025-07-23 14:48:03,844 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:48:09,483 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:48:09,647 - INFO -  * Restarting with stat
+2025-07-23 14:48:12,901 - WARNING -  * Debugger is active!
+2025-07-23 14:48:12,905 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:49:46,619 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:49:46,776 - INFO -  * Restarting with stat
+2025-07-23 14:49:50,015 - WARNING -  * Debugger is active!
+2025-07-23 14:49:50,018 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:49:55,644 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:49:55,844 - INFO -  * Restarting with stat
+2025-07-23 14:49:59,201 - WARNING -  * Debugger is active!
+2025-07-23 14:49:59,204 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:50:20,993 - ERROR - Error in /send-message: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c89d0184sm9251374b3a.50 - gsmtp')
+Traceback (most recent call last):
+  File "C:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 635, in send_message
+    server.login("info@stellsync.com", "StellSync@2025")  # Use App Password
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c89d0184sm9251374b3a.50 - gsmtp')
+2025-07-23 14:50:20,993 - INFO - 127.0.0.1 - - [23/Jul/2025 14:50:20] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 14:50:35,234 - ERROR - Error in /send-message: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c84e2727sm9070192b3a.33 - gsmtp')
+Traceback (most recent call last):
+  File "C:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 635, in send_message
+    server.login("info@stellsync.com", "StellSync@2025")  # Use App Password
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c84e2727sm9070192b3a.33 - gsmtp')
+2025-07-23 14:50:35,235 - INFO - 127.0.0.1 - - [23/Jul/2025 14:50:35] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 14:51:48,789 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 14:51:48,931 - INFO -  * Restarting with stat
+2025-07-23 14:51:52,164 - WARNING -  * Debugger is active!
+2025-07-23 14:51:52,168 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 14:52:07,486 - ERROR - Error in /send-message: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6b4cf8sm92237205ad.107 - gsmtp')
+Traceback (most recent call last):
+  File "C:\Users\94772\Desktop\hostedwebsitestellsync\website\stellsync_chatbot\app.py", line 636, in send_message
+    server.login("info@stellsync.com", "StellSync@2025")  # Use App Password
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\94772\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6b4cf8sm92237205ad.107 - gsmtp')
+2025-07-23 14:52:07,488 - INFO - 127.0.0.1 - - [23/Jul/2025 14:52:07] "[35m[1mPOST /send-message HTTP/1.1[0m" 500 -
+2025-07-23 15:02:47,882 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:02:48,035 - INFO -  * Restarting with stat
+2025-07-23 15:02:51,193 - WARNING -  * Debugger is active!
+2025-07-23 15:02:51,196 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:03:01,173 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:03:01,339 - INFO -  * Restarting with stat
+2025-07-23 15:03:04,982 - WARNING -  * Debugger is active!
+2025-07-23 15:03:04,986 - INFO -  * Debugger PIN: 408-197-022
+2025-07-23 15:04:10,819 - INFO -  * Detected change in 'C:\\Users\\94772\\Desktop\\hostedwebsitestellsync\\website\\stellsync_chatbot\\app.py', reloading
+2025-07-23 15:04:11,029 - INFO -  * Restarting with stat
